@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="reveal.js/dist/reset.css" />
     <link rel="stylesheet" href="reveal.js/dist/reveal.css" />
     <link rel="stylesheet" href="reveal.js/dist/theme/serif.css" id="theme" />
+    <link rel="stylesheet" href="customStyles.css"/>
 
     <!-- Theme used for syntax highlighted code -->
     <!-- https://martinomensio.medium.com/how-to-host-reveal-js-slides-on-github-pages-and-have-a-tidy-repository-1a363944c38d -->
@@ -28,8 +29,8 @@
       <div class="slides">
         <section
          data-markdown="markdown.md"
-         data-separator="-----"
-         data-separator-vertical="---"
+         data-separator="---"
+				data-separator-vertical="-----"
         >
           
         </section>
@@ -98,7 +99,8 @@
       // - https://revealjs.com/config/
       Reveal.initialize({
         hash: true,
-
+        width: 960,
+  			height: 700,
         // Learn about plugins: https://revealjs.com/plugins/
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom],
       });
