@@ -21,6 +21,8 @@ Complement Mediated Cytotoxicity
 </div>
 
 ---
+
+
 Lorlatinib
 LORBRENDA
 02485966
@@ -35,7 +37,7 @@ Dose adjust for renal&#x2F;hepatic dysfx
 Y
 43577
 43577
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061480.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061480.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97619
 ---
 
@@ -53,7 +55,7 @@ Dose adjust in renal&#x2F;hepatic dysfx
 Y
 43343
 43343
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060201.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060201.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96982
 ---
 
@@ -72,7 +74,7 @@ Dose adjust Renal&#x2F;Hepatic dysfnx
 Y
 42657
 42657
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062016.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062016.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94518
 ---
 
@@ -91,7 +93,7 @@ Unstudied for renal
 Y
 42123
 42123
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054572.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054572.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92108
 ---
 
@@ -109,7 +111,7 @@ Dose adjust Renal&#x2F;Hepatic dysfnx
 Y
 41039
 41039
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059902.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059902.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86999
 ---
 
@@ -128,7 +130,7 @@ No adjustments
 N
 42446
 42446
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060888.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060888.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93642
 ---
 
@@ -148,7 +150,7 @@ No adjustments
 N
 41971
 41971
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059907.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059907.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91910
 ---
 
@@ -166,7 +168,7 @@ No adjustments
 N
 36605
 36605
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053554.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053554.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;65597
 ---
 
@@ -184,7 +186,7 @@ Contains polysorbate 80 (reactions)
 N
 44015
 44015
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060885.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060885.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98801
 ---
 
@@ -202,7 +204,7 @@ T1&#x2F;2: 18 days +&#x2F;- 9 d
 N
 42563
 42563
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062011.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062011.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94282
 ---
 
@@ -221,7 +223,7 @@ Dose adjust for significant renal dysfxn or grade 3+ hepatotoxicity
 N
 43480
 43480
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047981.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047981.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97230
 ---
 
@@ -240,7 +242,7 @@ Both hepatic and renal dose adj
 Y
 43181
 43181
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058926.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058926.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96138
 ---
 
@@ -259,7 +261,7 @@ Many interactions which affect drug levels
 Y
 36048
 36048
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060777.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060777.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;61873
 ---
 
@@ -277,7 +279,7 @@ May adjust for hepatic toxicity
 Y
 27394
 42746
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050561.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050561.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1812
 ---
 
@@ -296,7 +298,7 @@ TPMT testing**
 Y
 20089
 41717
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00025910.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00025910.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;960
 ---
 
@@ -318,7 +320,7 @@ Absorption affected by food
 Y
 43740
 43740
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054129.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054129.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98179
 ---
 
@@ -340,7 +342,7 @@ Adjust for Mild hepatic dysfxn
 Y
 41962
 41962
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061285.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061285.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91874
 ---
 
@@ -359,7 +361,7 @@ No offical dose adjustments however liver dysfunction must be monitored
 N
 43223
 43223
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044248.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044248.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96383
 ---
 
@@ -382,7 +384,7 @@ Dose adjust considerations for renal and hepatic dysfx
 N
 41324
 44358
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061748.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061748.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88626
 ---
 
@@ -400,7 +402,7 @@ may cause hepatotoxicity requiring held dose
 N
 43901
 43901
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054128.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054128.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98440
 ---
 
@@ -417,7 +419,7 @@ Dose adjust consideration in renal and hepatic dysfxn
 N
 44160
 44160
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060834.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060834.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98934
 ---
 
@@ -435,7 +437,7 @@ Multiple dose adjustments for toxicities (hematologic&#x2F;pulmonary)
 Y
 44095
 44095
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054832.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054832.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98354
 ---
 
@@ -453,7 +455,7 @@ mulitple dose adjustment for toxicities (heme&#x2F;lung&#x2F;nonheme)
 Y
 43649
 43649
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061550.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061550.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97723
 ---
 
@@ -472,7 +474,7 @@ Multiple dose adjustment for toxicities (heme&#x2F;lung&#x2F;skin&#x2F;other non
 Y
 43217
 43217
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059361.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059361.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96295
 ---
 
@@ -491,7 +493,7 @@ Unique immune mediated toxicity profile. Dose delays for various toxicities (hep
 N
 40976
 40976
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060643.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060643.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86525
 ---
 
@@ -509,7 +511,7 @@ No dose adj for renal&#x2F;hepatic however for toxicities (dematologic, infusion
 N
 39749
 40298
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043071.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043071.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75672
 ---
 
@@ -525,7 +527,7 @@ Dose adjustments for toxicities but not renal&#x2F;hepatic dysfxn
 N
 39595
 39595
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00038772.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00038772.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;79412
 ---
 
@@ -545,7 +547,7 @@ Dose adjustments not studied in renal&#x2F;hepatic dysfxn
 Y
 43864
 43864
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054411.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054411.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98500
 ---
 
@@ -562,7 +564,7 @@ No adjustments for renal&#x2F;hepatic
 Y
 42937
 42937
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061996.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061996.PDF">HC Link</a>
 
 ---
 
@@ -581,7 +583,7 @@ Severe neuropathy&#x2F;neurotoxicity.
 N
 43586
 43586
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048647.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048647.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97347
 ---
 
@@ -599,7 +601,7 @@ No labelled dose reduction for renal&#x2F;hepatic dysfxn though adjusted for CK 
 Y
 44188
 44188
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056602.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056602.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;99003
 ---
 
@@ -617,7 +619,7 @@ No dose adjustments listed but may need to be held for toxicities (cutaneous)
 Y
 41495
 41495
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056365.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056365.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89398
 ---
 
@@ -633,7 +635,7 @@ May need to be held for LVEF decreases
 N
 43385
 43385
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056300.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056300.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97124
 ---
 
@@ -650,7 +652,7 @@ held if (along with tras) for LVEF decreases
 N
 41402
 41402
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060125.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060125.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88984
 ---
 
@@ -668,7 +670,7 @@ Dose adjust in significant hepatic toxicity, cardiac, derm, GI, pulmonary
 Y
 39969
 42479
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048842.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048842.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;81179
 ---
 
@@ -685,7 +687,7 @@ dose reduced in renal and hepatic dysfxn as well as toxicities (grade 3 general)
 Y
 43914
 43914
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062165.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062165.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98622
 ---
 
@@ -702,7 +704,7 @@ Dose adjustments not studies
 N
 42066
 44222
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059834.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059834.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91940
 ---
 
@@ -719,7 +721,7 @@ Dose adjusted for hepatic dysfxn and various toxicities (cytopenia, GI)
 Y
 43839
 43839
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058166.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058166.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97986
 ---
 
@@ -740,7 +742,7 @@ Dose adjusted in renal dysfxn, and other toxicity (cytopenia, GI, pneumonitis)
 Y
 43243
 43243
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061411.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061411.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96554
 ---
 
@@ -758,7 +760,7 @@ Immune mediated side effects (Hepatic, GI, cutaneous, pulmonary etc)
 N
 43609
 43609
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058044.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058044.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97727
 ---
 
@@ -775,7 +777,7 @@ Immune mediated dose adjustment&#x2F;hold
 N
 43087
 43087
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059619.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059619.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95856
 ---
 
@@ -792,7 +794,7 @@ T1&#x2F;2: 18d
 N
 43059
 43059
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060587.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060587.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95736
 ---
 
@@ -807,7 +809,7 @@ T1&#x2F;2: 22d
 N
 42929
 42929
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062141.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062141.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94388
 ---
 
@@ -822,7 +824,7 @@ T1&#x2F;2: 27d
 N
 42857
 42857
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061767.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061767.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95089
 ---
 
@@ -837,7 +839,7 @@ T1&#x2F;2: 25 d
 N
 42300
 42300
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062198.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062198.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93204
 ---
 
@@ -853,7 +855,7 @@ Dose adjusted for various toxicities (derm, GI, glucose,pancreatitis, lung)
 Y
 44011
 44011
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061787.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061787.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98692
 ---
 
@@ -870,7 +872,7 @@ dose adjusted for toxicity (derm, GI, heme, lung,)
 Y
 42115
 42115
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057731.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057731.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92318
 ---
 
@@ -885,7 +887,7 @@ Receptor Tyrosine Kinase
 Y
 44148
 44148
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98037
 ---
 
@@ -900,7 +902,7 @@ Receptor Tyrosine Kinase
 Y
 43900
 43900
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98496
 ---
 
@@ -915,7 +917,7 @@ Tyrosine Kinsase
 Y
 43759
 43759
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97445
 ---
 
@@ -930,7 +932,7 @@ EGFR&#x2F;HER1 HER2 HER4
 Y
 43577
 43577
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97625
 ---
 
@@ -945,7 +947,7 @@ VEGF Receptor 2
 N
 42257
 42257
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92855
 ---
 
@@ -960,7 +962,7 @@ VEGF
 N
 38658
 38658
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75642
 ---
 
@@ -978,7 +980,7 @@ Adjust in significant renal dysfxn
 Y
 36770
 37897
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00017604.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00017604.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;65460
 ---
 
@@ -993,7 +995,7 @@ DNA
 Y
 36476
 40983
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;64696
 ---
 
@@ -1008,7 +1010,7 @@ DNA
 Y
 29220
 38289
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;3453
 ---
 
@@ -1023,7 +1025,7 @@ DNA
 Y
 28125
 40161
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;2530
 ---
 
@@ -1038,7 +1040,7 @@ DNA
 Y
 25933
 43229
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;938
 ---
 
@@ -1053,7 +1055,7 @@ DNA
 Y
 23742
 42789
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1195
 ---
 
@@ -1068,7 +1070,7 @@ DNA
 Y
 21185
 43040
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1193
 ---
 
@@ -1083,7 +1085,7 @@ Aromatase
 Y
 36755
 38307
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;66502
 ---
 
@@ -1098,7 +1100,7 @@ Aromatase
 Y
 35660
 35675
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;50695
 ---
 
@@ -1113,7 +1115,7 @@ Aromatase
 Y
 35307
 37281
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;43395
 ---
 
@@ -1128,7 +1130,7 @@ B Cell Lymphocyte 2 (BCL2)
 Y
 42674
 42674
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059710.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059710.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94509
 ---
 
@@ -1143,7 +1145,7 @@ BCR-ABL
 Y
 42237
 42237
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92168
 ---
 
@@ -1158,7 +1160,7 @@ BCR-ABL
 Y
 41753
 41753
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90368
 ---
 
@@ -1173,7 +1175,7 @@ BCR-ABL
 Y
 39721
 39721
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;80138
 ---
 
@@ -1188,7 +1190,7 @@ BCR-ABL
 Y
 39185
 39185
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;77850
 ---
 
@@ -1203,7 +1205,7 @@ BCR-ABL
 Y
 38447
 38447
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053452.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053452.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;73824
 ---
 
@@ -1218,7 +1220,7 @@ BRAF
 Y
 41514
 42640
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89429
 ---
 
@@ -1233,7 +1235,7 @@ BRAF
 Y
 40973
 40973
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86606
 ---
 
@@ -1248,7 +1250,7 @@ Epidermal Growth Factor Receptor
 Y
 42570
 42570
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94310
 ---
 
@@ -1263,7 +1265,7 @@ Epidermal Growth Factor Receptor
 Y
 41656
 41656
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90026
 ---
 
@@ -1278,7 +1280,7 @@ Epidermal Growth Factor Receptor
 Y
 39087
 39087
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75441
 ---
 
@@ -1293,7 +1295,7 @@ EGFR
 Y
 37972
 37972
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;73040
 ---
 
@@ -1308,7 +1310,7 @@ Androgen Pathway - inhibits CYP 17
 Y
 42635
 42635
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94420
 ---
 
@@ -1323,7 +1325,7 @@ Histone Deacetylase (HDAC)
 N
 41675
 41675
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89895
 ---
 
@@ -1338,7 +1340,7 @@ Androgen Pathway
 Y
 43308
 43308
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96913
 ---
 
@@ -1353,7 +1355,7 @@ Androgen Pathway
 Y
 41432
 41432
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89203
 ---
 
@@ -1368,7 +1370,7 @@ Androgen Pathway
 Y
 36076
 43976
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;61987
 ---
 
@@ -1383,7 +1385,7 @@ Androgen Pathway
 Y
 35662
 43983
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;43312
 ---
 
@@ -1398,7 +1400,7 @@ Androgen Receptor
 Y
 35430
 37270
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;19647
 ---
 
@@ -1413,7 +1415,7 @@ Estrogen Receptor
 Y
 32873
 32873
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;10664
 ---
 
@@ -1428,7 +1430,7 @@ T, NK NKT, Cytokines Misc
 Y
 41694
 41694
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90423
 ---
 
@@ -1443,7 +1445,7 @@ Misc
 Y
 40483
 40483
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;84045
 ---
 
@@ -1458,7 +1460,7 @@ T, NK NKT, Cytokines Misc
 Y
 39497
 39497
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;79016
 ---
 
@@ -1473,7 +1475,7 @@ Janus Kinases 1&#x2F;2
 Y
 41109
 41109
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;87357
 ---
 
@@ -1488,7 +1490,7 @@ MEK1&#x2F;2 Kinase
 Y
 42466
 42466
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93872
 ---
 
@@ -1503,7 +1505,7 @@ MEK1&#x2F;2 Kinase
 Y
 41514
 42555
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89431
 ---
 
@@ -1518,7 +1520,7 @@ Misc
 N
 41526
 43300
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89255
 ---
 
@@ -1533,7 +1535,7 @@ Misc
 Y
 34699
 34699
-
+<a href="">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;16262
 ---
 
@@ -1548,7 +1550,7 @@ Misc
 Y
 30316
 30316
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;4732
 ---
 
@@ -1563,7 +1565,7 @@ Adrenocortical carcinoma
 Y
 29220
 44230
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;3348
 ---
 
@@ -1578,7 +1580,7 @@ Mammalian Target of Rapamycin
 N
 39458
 40735
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;78941
 ---
 
@@ -1593,7 +1595,7 @@ Mammalian Target of Rapamycin
 Y
 41971
 41971
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91028
 ---
 
@@ -1608,7 +1610,7 @@ DNA
 Y
 31047
 43832
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;5963
 ---
 
@@ -1623,7 +1625,7 @@ Tyrosine Kinsase
 Y
 43383
 43383
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97148
 ---
 
@@ -1638,7 +1640,7 @@ Tyrosine Kinsase
 Y
 41366
 41366
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88820
 ---
 
@@ -1653,7 +1655,7 @@ Tyrosine Kinsase
 Y
 40962
 43039
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86437
 ---
 
@@ -1668,7 +1670,7 @@ Tyrosine Kinsase
 Y
 40403
 42620
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;83758
 ---
 
@@ -1683,7 +1685,7 @@ Tyrosine Kinsase
 Y
 38929
 38929
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;76977
 ---
 
@@ -1698,7 +1700,7 @@ Tyrosine Kinsase
 Y
 38890
 38890
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;76647
 ---
 
@@ -1713,6 +1715,6 @@ VEGF Receptor (1,2,3)
 Y
 41138
 41138
-https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF">HC Link</a>
 https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;87513
 ---
