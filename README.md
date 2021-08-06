@@ -6,6 +6,8 @@ Reveal.js template presentation as a GitHub repo Template
 
 [github pages deploy of this slide show](https://cricard7.github.io/chemoPharmacology/)
 
+Print: [Link to printable version - chrome only](https://cricard7.github.io/chemoPharmacology/?print-pdf)
+
 ## Usage
 1. Click 'Use This Template'
 1. Name your presentation and it will be created in your own GitHub account/org
