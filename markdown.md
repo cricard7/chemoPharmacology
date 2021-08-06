@@ -1,3 +1,156 @@
+### Pharmacology of Recent Oncology Oral, Biologic and Immunotherapy Agents
+
+<div class="crname">Chad Ricard BSc Pharm Aug 2021</div>
+
+---
+### Learning Objectives
+- To be able to descibe the mechanisms of action and basic kinetics of commonly used newer oral, biologic and immunologic anticancer agents.
+- To review how various pharmacologic strategies are used in the treatmen of specific tumor types
+- To be able to discuss some challenges with use of these agents
+
+---
+
+#### Preamble
+
+Efforts have been made to ensure the accuracy of the information contained within this document, however, are meant to be for educational purposes only. Linkages to the relevant monographs have been made and should be referred to for information related to treatment of patients. The author accepts no liability for any errors or omissions contained within. Information is provided as is and is not a replacement for clinical judgment of a licenced medical practitioner.
+
+An online version of this presentation is hosted at <a href="https://cricard7.github.io/chemoPharmacology/">this link </a>
+
+---
+
+<div id="TOC"></div>
+
+#### Table of Contents
+
+- <a href="#/Lorlatinib">Lorlatinib</a>
+- <a href="#/Brigatinib">Brigatinib</a>
+- <a href="#/Alectinib">Alectinib</a>
+- <a href="#/Ceritinib">Ceritinib</a>
+- <a href="#/Crizotinib">Crizotinib</a>
+- <a href="#/Blinatumomab">Blinatumomab</a>
+- <a href="#/Obintutuzumab">Obintutuzumab</a>
+- <a href="#/Rituximab">Rituximab</a>
+- <a href="#/Isatuximab">Isatuximab</a>
+- <a href="#/Daratumumab">Daratumumab</a>
+- <a href="#/Pralatrexate">Pralatrexate</a>
+
+---
+
+- <a href="#/Trifluridine-tipiracil">Trifluridine-tipiracil</a>
+- <a href="#/Capecitabine">Capecitabine</a>
+- <a href="#/Thioguanine">Thioguanine</a>
+- <a href="#/Mercaptopurine">Mercaptopurine</a>
+- <a href="#/Acalabrutinib">Acalabrutinib</a>
+- <a href="#/Ibrutinib">Ibrutinib</a>
+- <a href="#/Inotuzumab Ozogamicin">Inotuzumab Ozogamicin</a>
+- <a href="#/Brentuximab vedotin">Brentuximab vedotin</a>
+- <a href="#/Gemtuzumab Ozogamicin">Gemtuzumab Ozogamicin</a>
+- <a href="#/Polatuzumab vedotin">Polatuzumab vedotin</a>
+- <a href="#/Palbociclib">Palbociclib</a>
+- <a href="#/Abemaciclib">Abemaciclib</a>
+- <a href="#/Ribociclib">Ribociclib</a>
+
+---
+
+- <a href="#/Cetuximab">Cetuximab</a>
+- <a href="#/Panitumumab">Panitumumab</a>
+- <a href="#/Gilteritinib">Gilteritinib</a>
+- <a href="#/Midostaurin">Midostaurin</a>
+- <a href="#/Dinutuximab">Dinutuximab</a>
+- <a href="#/Sonidegib">Sonidegib</a>
+- <a href="#/Vismodegib">Vismodegib</a>
+- <a href="#/Trastuzumab">Trastuzumab</a>
+- <a href="#/Pertuzumab">Pertuzumab</a>
+- <a href="#/Lapatinib">Lapatinib</a>
+- <a href="#/Darolutamide">Darolutamide</a>
+- <a href="#/Siltuximab">Siltuximab</a>
+- <a href="#/Niraparib">Niraparib</a>
+- <a href="#/Olaparib">Olaparib</a>
+
+---
+
+- <a href="#/Ipilimumab">Ipilimumab</a>
+- <a href="#/Cemiplimab">Cemiplimab</a>
+- <a href="#/Avelumab">Avelumab</a>
+- <a href="#/Durvalumab">Durvalumab</a>
+- <a href="#/Pembrolizumab">Pembrolizumab</a>
+- <a href="#/Atezolizumab">Atezolizumab</a>
+- <a href="#/Nivolumab">Nivolumab</a>
+- <a href="#/Alpelisib">Alpelisib</a>
+- <a href="#/Idelalisib">Idelalisib</a>
+- <a href="#/Venetoclax">Venetoclax</a>
+- <a href="#/Imatinib">Imatinib</a>
+
+---
+
+#### Health Canada Links Only
+
+- <a href="#/Lacrotrectinib">Lacrotrectinib</a>
+- <a href="#/Entrectinib">Entrectinib</a>
+- <a href="#/Lenvatinib">Lenvatinib</a>
+- <a href="#/Dacometinib">Dacometinib</a>
+- <a href="#/Ramucirumab">Ramucirumab</a>
+- <a href="#/Bevacizumab">Bevacizumab</a>
+- <a href="#/Cyclophosphamide">Cyclophosphamide</a>
+- <a href="#/Temozolomide">Temozolomide</a>
+- <a href="#/Hydroxyurea">Hydroxyurea</a>
+- <a href="#/Lomustine">Lomustine</a>
+- <a href="#/Procarbazine">Procarbazine</a>
+- <a href="#/Melphalan">Melphalan</a>
+
+---
+
+- <a href="#/Chorambucil">Chorambucil</a>
+- <a href="#/Exemestane">Exemestane</a>
+- <a href="#/Letrozole">Letrozole</a>
+- <a href="#/Anastrazole">Anastrazole</a>
+- <a href="#/Ponatininb">Ponatininb</a>
+- <a href="#/Bosutinib">Bosutinib</a>
+- <a href="#/Nilotinib">Nilotinib</a>
+- <a href="#/Dasatinib">Dasatinib</a>
+- <a href="#/Dabrafenib">Dabrafenib</a>
+- <a href="#/Vemurafenib">Vemurafenib</a>
+- <a href="#/Osimertinib">Osimertinib</a>
+- <a href="#/Afatinib">Afatinib</a>
+- <a href="#/Erlotinib">Erlotinib</a>
+- <a href="#/Gefitinib">Gefitinib</a>
+
+---
+
+- <a href="#/Abiraterone">Abiraterone</a>
+- <a href="#/Romidepsin">Romidepsin</a>
+- <a href="#/Apalutamide">Apalutamide</a>
+- <a href="#/Enzalutamide">Enzalutamide</a>
+- <a href="#/Flutamide">Flutamide</a>
+- <a href="#/Nilutamide">Nilutamide</a>
+- <a href="#/Bicalutamide">Bicalutamide</a>
+- <a href="#/Tamoxifen">Tamoxifen</a>
+- <a href="#/Pomalidomide">Pomalidomide</a>
+- <a href="#/Thalidomide">Thalidomide</a>
+- <a href="#/Lenalidomide">Lenalidomide</a>
+- <a href="#/Ruxolitinib">Ruxolitinib</a>
+- <a href="#/Cobimetinib">Cobimetinib</a>
+- <a href="#/Trametinib">Trametinib</a>
+
+---
+
+- <a href="#/Arsenic Trioxide">Arsenic Trioxide</a>
+- <a href="#/Dexamethasone">Dexamethasone</a>
+- <a href="#/Prednisone">Prednisone</a>
+- <a href="#/Mitotane">Mitotane</a>
+- <a href="#/Temsirolimus">Temsirolimus</a>
+- <a href="#/Everolimus">Everolimus</a>
+- <a href="#/Etoposide">Etoposide</a>
+- <a href="#/Cabozantinib">Cabozantinib</a>
+- <a href="#/Regorafenib">Regorafenib</a>
+- <a href="#/Vandetanib">Vandetanib</a>
+- <a href="#/Pazopanib">Pazopanib</a>
+- <a href="#/Sorafenib">Sorafenib</a>
+- <a href="#/Sunitinib">Sunitinib</a>
+- <a href="#/Axitinib">Axitinib</a>
+
+---
+
 ## Mechanisms of Action
 
 ---
@@ -22,10 +175,49 @@ Complement Mediated Cytotoxicity
 
 ---
 
+Tyrosine Kinase Inhibition
+
+"A substance that blocks the action of enzymes called tyrosine kinases. Tyrosine kinases are a part of many cell functions, including cell signaling, growth, and division. These enzymes may be too active or found at high levels in some types of cancer cells, and blocking them may help keep cancer cells from growing. Some tyrosine kinase inhibitors are used to treat cancer. They are a type of targeted therapy."
+
+<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/tyrosine-kinase-inhibitor" target="_blank">Cancer.gov</a>
+
+---
+
+Check Point Inhibition
+
+"The PD-1/PD-L1 pathway represents an adaptive immune resistance mechanism exerted by tumor cells in response to endogenous immune anti-tumor activity. PD-L1 is overexpressed on tumor cells or on non-transformed cells in the tumor microenvironment2. PD-L1 expressed on the tumor cells binds to PD-1 receptors on the activated T cells, which leads to the inhibition of the cytotoxic T cells. These deactivated T cells remain inhibited in the tumor microenvironment."
+
+<a href="https://www.abcam.com/cancer/cancer-immunotherapy-and-the-pd1pdl1-pathway" target="_blank">abcam.com</a>
+---
+
+EGFR inhibition
+
+"A substance that blocks the activity of a protein called epidermal growth factor receptor (EGFR). EGFR is found on the surface of some normal cells and is involved in cell growth. It may also be found at high levels on some types of cancer cells, which causes these cells to grow and divide. Blocking EGFR may keep cancer cells from growing. Some EGFR inhibitors are used to treat cancer. Also called EGFR tyrosine kinase inhibitor, epidermal growth factor receptor inhibitor, and epidermal growth factor receptor tyrosine kinase inhibitor."
+
+<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/egfr-inhibitor" target="_blank">cancer.gov</a>
+---
+
+Fusion Protein
+
+"A protein made from a fusion gene, which is created by joining parts of two different genes. Fusion genes may occur naturally in the body by transfer of DNA between chromosomes. For example, the BCR-ABL gene found in some types of leukemia is a fusion gene that makes the BCR-ABL fusion protein. Fusion genes and proteins can also be made in the laboratory by combining genes or parts of genes from the same or different organisms."
+
+<a href="https://www.cancer.gov/publications/dictionaries/cancer-terms/def/fusion-protein" target="_blank">cancer.gov</a>
+---
+
+Driver Mutations
+
+"Cancer develops as a result of the accumulation of somatic mutation and other genetic alterations that impair cell division, checkpoints, etc., which results in abnormal cell proliferation and eventually tumorigenesis – such mutations are called “driver mutations” (the term driver mutation denotes mutation under positive selection within the population of cells)"
+
+<a href="https://ijmio.com/driver-mutations-in-oncogenesis/" target="_blank">Morjaria S. Driver mutations in oncogenesis. Int J Mol Immuno Oncol 2021;6(2):100-2.</a>
+
+---
+
+<div id="Lorlatinib"></div>
 <span class="generic">Lorlatinib</span> <span class="brand">LORBRENDA</span>
-<span class="class">ALK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02485966</span>
-<table>
+
+<span class="class">ALK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -48,16 +240,18 @@ Dose adjust for renal&#x2F;hepatic dysfx</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43577</span>
-<span class="currentMarketDate">43577</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061480.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97619" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-Apr </span> <span class="currentMarketDate">Current Market Date: 2019-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061480.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02485966</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97619" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Brigatinib"></div>
 <span class="generic">Brigatinib</span> <span class="brand">ALUNBRIG</span>
-<span class="class">ALK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02479206</span>
-<table>
+
+<span class="class">ALK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -80,16 +274,18 @@ Dose adjust in renal&#x2F;hepatic dysfx</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43343</span>
-<span class="currentMarketDate">43343</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060201.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96982" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-Aug </span> <span class="currentMarketDate">Current Market Date: 2018-Aug</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060201.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02479206</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96982" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Alectinib"></div>
 <span class="generic">Alectinib</span> <span class="brand">ALECENSARO</span>
-<span class="class">ALK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02458136</span>
-<table>
+
+<span class="class">ALK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -113,16 +309,18 @@ Dose adjust Renal&#x2F;Hepatic dysfnx</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42657</span>
-<span class="currentMarketDate">42657</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062016.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94518" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2016-Oct </span> <span class="currentMarketDate">Current Market Date: 2016-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062016.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02458136</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94518" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Ceritinib"></div>
 <span class="generic">Ceritinib</span> <span class="brand">ZYKADIA</span>
-<span class="class">ALK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02436779</span>
-<table>
+
+<span class="class">ALK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -146,16 +344,18 @@ Unstudied for renal</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42123</span>
-<span class="currentMarketDate">42123</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054572.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92108" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2015-Apr </span> <span class="currentMarketDate">Current Market Date: 2015-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054572.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02436779</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92108" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Crizotinib"></div>
 <span class="generic">Crizotinib</span> <span class="brand">XALKORI</span>
-<span class="class">ALK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02384256</span>
-<table>
+
+<span class="class">ALK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -178,16 +378,18 @@ Dose adjust Renal&#x2F;Hepatic dysfnx</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">41039</span>
-<span class="currentMarketDate">41039</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059902.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86999" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2012-May </span> <span class="currentMarketDate">Current Market Date: 2012-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059902.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02384256</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86999" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Blinatumomab"></div>
 <span class="generic">Blinatumomab</span> <span class="brand">BLINCYTO</span>
-<span class="class">Anti-CD19&#x2F;3 BiTE</span> <span class="oral">N</span>
-<span class="din">02450283</span>
-<table>
+
+<span class="class">Anti-CD19&#x2F;3 BiTE</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -211,16 +413,18 @@ No adjustments</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42446</span>
-<span class="currentMarketDate">42446</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060888.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93642" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2016-Mar </span> <span class="currentMarketDate">Current Market Date: 2016-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060888.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02450283</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93642" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Obintutuzumab"></div>
 <span class="generic">Obintutuzumab</span> <span class="brand">GAZYVA</span>
-<span class="class">Anti-CD20 Monoclonal Antibody</span> <span class="oral">N</span>
-<span class="din">02434806</span>
-<table>
+
+<span class="class">Anti-CD20 Monoclonal Antibody</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -245,16 +449,18 @@ No adjustments</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">41971</span>
-<span class="currentMarketDate">41971</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059907.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91910" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Nov </span> <span class="currentMarketDate">Current Market Date: 2014-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059907.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02434806</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91910" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Rituximab"></div>
 <span class="generic">Rituximab</span> <span class="brand">RITUXAN</span>
-<span class="class">Anti-CD20 Monoclonal Antibody</span> <span class="oral">N</span>
-<span class="din">02241927</span>
-<table>
+
+<span class="class">Anti-CD20 Monoclonal Antibody</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -277,16 +483,18 @@ No adjustments</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">36605</span>
-<span class="currentMarketDate">36605</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053554.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;65597" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2000-Mar </span> <span class="currentMarketDate">Current Market Date: 2000-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053554.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02241927</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;65597" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Isatuximab"></div>
 <span class="generic">Isatuximab</span> <span class="brand">SARCLISA</span>
-<span class="class">Anti-CD38 Monoclonal Antibody</span> <span class="oral">N</span>
-<span class="din">02498235</span>
-<table>
+
+<span class="class">Anti-CD38 Monoclonal Antibody</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -309,16 +517,18 @@ Contains polysorbate 80 (reactions)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">44015</span>
-<span class="currentMarketDate">44015</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060885.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98801" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Jul </span> <span class="currentMarketDate">Current Market Date: 2020-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060885.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02498235</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98801" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Daratumumab"></div>
 <span class="generic">Daratumumab</span> <span class="brand">DARZALEX</span>
-<span class="class">Anti-CD38 Monoclonal Antibody</span> <span class="oral">N</span>
-<span class="din">02455951</span>
-<table>
+
+<span class="class">Anti-CD38 Monoclonal Antibody</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -341,16 +551,18 @@ ADCC&#x2F;CDC
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42563</span>
-<span class="currentMarketDate">42563</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062011.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94282" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2016-Jul </span> <span class="currentMarketDate">Current Market Date: 2016-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062011.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02455951</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94282" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Pralatrexate"></div>
 <span class="generic">Pralatrexate</span> <span class="brand">FOLOTYN</span>
-<span class="class">Antimetabolite</span> <span class="oral">N</span>
-<span class="din">02481820</span>
-<table>
+
+<span class="class">Antimetabolite</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -374,16 +586,18 @@ Dose adjust for significant renal dysfxn or grade 3+ hepatotoxicity
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43480</span>
-<span class="currentMarketDate">43480</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047981.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97230" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-Jan </span> <span class="currentMarketDate">Current Market Date: 2019-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047981.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02481820</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97230" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Trifluridine-tipiracil"></div>
 <span class="generic">Trifluridine-tipiracil</span> <span class="brand">LONSURF</span>
-<span class="class">Antimetabolite</span> <span class="oral">Y</span>
-<span class="din">02472104</span>
-<table>
+
+<span class="class">Antimetabolite</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -407,16 +621,18 @@ Both hepatic and renal dose adj</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43181</span>
-<span class="currentMarketDate">43181</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058926.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96138" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-Mar </span> <span class="currentMarketDate">Current Market Date: 2018-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058926.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02472104</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96138" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Capecitabine"></div>
 <span class="generic">Capecitabine</span> <span class="brand">XELODA</span>
-<span class="class">Antimetabolite</span> <span class="oral">Y</span>
-<span class="din">02238453</span>
-<table>
+
+<span class="class">Antimetabolite</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -440,16 +656,18 @@ Many interactions which affect drug levels</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">36048</span>
-<span class="currentMarketDate">36048</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060777.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;61873" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1998-Sep </span> <span class="currentMarketDate">Current Market Date: 1998-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060777.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02238453</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;61873" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Thioguanine"></div>
 <span class="generic">Thioguanine</span> <span class="brand">LANVIS</span>
-<span class="class">Antimetabolite</span> <span class="oral">Y</span>
-<span class="din">00282081</span>
-<table>
+
+<span class="class">Antimetabolite</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -472,16 +690,18 @@ May adjust for hepatic toxicity
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">27394</span>
-<span class="currentMarketDate">42746</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050561.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1812" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1974-Dec </span> <span class="currentMarketDate">Current Market Date: 2017-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050561.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00282081</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1812" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Mercaptopurine"></div>
 <span class="generic">Mercaptopurine</span> <span class="brand">PURINETHOL</span>
-<span class="class">Antimetabolite</span> <span class="oral">Y</span>
-<span class="din">00004723</span>
-<table>
+
+<span class="class">Antimetabolite</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -505,16 +725,18 @@ TPMT testing**
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">20089</span>
-<span class="currentMarketDate">41717</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00025910.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;960" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1954-Dec </span> <span class="currentMarketDate">Current Market Date: 2014-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00025910.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00004723</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;960" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Acalabrutinib"></div>
 <span class="generic">Acalabrutinib</span> <span class="brand">CALQUENCE</span>
-<span class="class">BTK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02491788</span>
-<table>
+
+<span class="class">BTK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -541,16 +763,18 @@ Absorption affected by food
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43740</span>
-<span class="currentMarketDate">43740</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054129.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98179" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-Oct </span> <span class="currentMarketDate">Current Market Date: 2019-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054129.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02491788</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98179" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Ibrutinib"></div>
 <span class="generic">Ibrutinib</span> <span class="brand">IMBRUVICA</span>
-<span class="class">BTK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02434407</span>
-<table>
+
+<span class="class">BTK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -577,16 +801,18 @@ Adjust for Mild hepatic dysfxn</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">41962</span>
-<span class="currentMarketDate">41962</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061285.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91874" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Nov </span> <span class="currentMarketDate">Current Market Date: 2014-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061285.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02434407</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91874" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Inotuzumab Ozogamicin"></div>
 <span class="generic">Inotuzumab Ozogamicin</span> <span class="brand">BESPONSA</span>
-<span class="class">CD22 - MAB-drug conjugate</span> <span class="oral">N</span>
-<span class="din">02473909</span>
-<table>
+
+<span class="class">CD22 - MAB-drug conjugate</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -610,16 +836,18 @@ No offical dose adjustments however liver dysfunction must be monitored</span></
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43223</span>
-<span class="currentMarketDate">43223</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044248.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96383" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-May </span> <span class="currentMarketDate">Current Market Date: 2018-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044248.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02473909</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96383" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Brentuximab vedotin"></div>
 <span class="generic">Brentuximab vedotin</span> <span class="brand">ADCETRIS</span>
-<span class="class">CD30 - MAB-drug conjugate</span> <span class="oral">N</span>
-<span class="din">02401347</span>
-<table>
+
+<span class="class">CD30 - MAB-drug conjugate</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -647,16 +875,18 @@ Dose adjust considerations for renal and hepatic dysfx
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">41324</span>
-<span class="currentMarketDate">44358</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061748.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88626" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Feb </span> <span class="currentMarketDate">Current Market Date: 2021-Jun</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061748.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02401347</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88626" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Gemtuzumab Ozogamicin"></div>
 <span class="generic">Gemtuzumab Ozogamicin</span> <span class="brand">MYLOTARG</span>
-<span class="class">CD33 - MAB-drug conjugate</span> <span class="oral">N</span>
-<span class="din">02494388</span>
-<table>
+
+<span class="class">CD33 - MAB-drug conjugate</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -679,16 +909,18 @@ may cause hepatotoxicity requiring held dose</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43901</span>
-<span class="currentMarketDate">43901</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054128.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98440" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Mar </span> <span class="currentMarketDate">Current Market Date: 2020-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054128.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02494388</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98440" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Polatuzumab vedotin"></div>
 <span class="generic">Polatuzumab vedotin</span> <span class="brand">POLIVY</span>
-<span class="class">CD79b - MAB-drug conjugate</span> <span class="oral">N</span>
-<span class="din">02499614</span>
-<table>
+
+<span class="class">CD79b - MAB-drug conjugate</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -710,16 +942,18 @@ Dose adjust consideration in renal and hepatic dysfxn</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">44160</span>
-<span class="currentMarketDate">44160</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060834.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98934" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Nov </span> <span class="currentMarketDate">Current Market Date: 2020-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060834.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02499614</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98934" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Palbociclib"></div>
 <span class="generic">Palbociclib</span> <span class="brand">IBRANCE</span>
-<span class="class">CDK 4&#x2F;6 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02493535</span>
-<table>
+
+<span class="class">CDK 4&#x2F;6 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -742,16 +976,18 @@ Multiple dose adjustments for toxicities (hematologic&#x2F;pulmonary)</span></td
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">44095</span>
-<span class="currentMarketDate">44095</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054832.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98354" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Sep </span> <span class="currentMarketDate">Current Market Date: 2020-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054832.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02493535</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98354" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Abemaciclib"></div>
 <span class="generic">Abemaciclib</span> <span class="brand">VERZENIO</span>
-<span class="class">CDK 4&#x2F;6 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02487098</span>
-<table>
+
+<span class="class">CDK 4&#x2F;6 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -774,16 +1010,18 @@ mulitple dose adjustment for toxicities (heme&#x2F;lung&#x2F;nonheme)</span></td
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43649</span>
-<span class="currentMarketDate">43649</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061550.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97723" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-Jul </span> <span class="currentMarketDate">Current Market Date: 2019-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061550.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02487098</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97723" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Ribociclib"></div>
 <span class="generic">Ribociclib</span> <span class="brand">KISQALI</span>
-<span class="class">CDK 4&#x2F;6 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02473569</span>
-<table>
+
+<span class="class">CDK 4&#x2F;6 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -807,49 +1045,18 @@ Multiple dose adjustment for toxicities (heme&#x2F;lung&#x2F;skin&#x2F;other non
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43217</span>
-<span class="currentMarketDate">43217</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059361.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96295" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-Apr </span> <span class="currentMarketDate">Current Market Date: 2018-Apr</span>
 
-<span class="generic">Ipilimumab</span> <span class="brand">YERVOY</span>
-<span class="class">CTLA-4 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02379384</span>
-<table>
-<tbody>
-<tr>
-<td>Target</td>
-<td><span class="target">Cytotoxic T Lymphocyte Associated Antigen</span></td>
-</tr>
-<tr>
-<td>Indication</td>
-<td><span class="ind">Met melanoma, met renal ca</span></td>
-</tr>
-<tr>
-<td>Mechanism</td>
-<td><span class="mech">IgG MAB that binds cytotoxic T-Lymphocyte associated antigen 4 (CTLA-4).
-CTLA-4 down regulates T cells and by blocking it T cells are able to be activated against tumor cells (renal ca &#x2F;melanoma)
-Used in combination with nivolumab to synergy</span></td>
-</tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics">T1&#x2F;2: 15.4 days
-Unique immune mediated toxicity profile. Dose delays for various toxicities (hepatic, renal, GI, cutaneous, thyroid etc)
-</span></td>
-</tr>
-</tbody>
-</table>
-<span class="originalMarketDate">40976</span>
-<span class="currentMarketDate">40976</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060643.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86525" target="_blank" class="HCpagelink">HC Page</a>
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059361.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02473569</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96295" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
 ---
-
+<div id="Cetuximab"></div>
 <span class="generic">Cetuximab</span> <span class="brand">ERBITUX</span>
-<span class="class">EGFR Inhibitor</span> <span class="oral">N</span>
-<span class="din">02271249</span>
-<table>
+
+<span class="class">EGFR Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -872,16 +1079,18 @@ No dose adj for renal&#x2F;hepatic however for toxicities (dematologic, infusion
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">39749</span>
-<span class="currentMarketDate">40298</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043071.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75672" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2008-Oct </span> <span class="currentMarketDate">Current Market Date: 2010-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043071.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02271249</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75672" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Panitumumab"></div>
 <span class="generic">Panitumumab</span> <span class="brand">VECTIBIX</span>
-<span class="class">EGFR Inhibitor</span> <span class="oral">N</span>
-<span class="din">02308487</span>
-<table>
+
+<span class="class">EGFR Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -902,16 +1111,18 @@ Dose adjustments for toxicities but not renal&#x2F;hepatic dysfxn</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">39595</span>
-<span class="currentMarketDate">39595</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00038772.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;79412" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2008-May </span> <span class="currentMarketDate">Current Market Date: 2008-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00038772.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02308487</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;79412" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Gilteritinib"></div>
 <span class="generic">Gilteritinib</span> <span class="brand">XOSPATA</span>
-<span class="class">FLT3 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02495058</span>
-<table>
+
+<span class="class">FLT3 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -936,16 +1147,18 @@ Dose adjustments not studied in renal&#x2F;hepatic dysfxn
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43864</span>
-<span class="currentMarketDate">43864</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054411.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98500" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Feb </span> <span class="currentMarketDate">Current Market Date: 2020-Feb</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054411.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02495058</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98500" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Midostaurin"></div>
 <span class="generic">Midostaurin</span> <span class="brand">RYDAPT</span>
-<span class="class">FLT3 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02466236</span>
-<table>
+
+<span class="class">FLT3 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -967,16 +1180,18 @@ No adjustments for renal&#x2F;hepatic</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42937</span>
-<span class="currentMarketDate">42937</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061996.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2017-Jul </span> <span class="currentMarketDate">Current Market Date: 2017-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061996.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02466236</span></div>
+<div><a href="" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Dinutuximab"></div>
 <span class="generic">Dinutuximab</span> <span class="brand">UNITUXIN</span>
-<span class="class">GD2</span> <span class="oral">N</span>
-<span class="din">02483076</span>
-<table>
+
+<span class="class">GD2</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1000,16 +1215,18 @@ Severe neuropathy&#x2F;neurotoxicity.</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43586</span>
-<span class="currentMarketDate">43586</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048647.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97347" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-May </span> <span class="currentMarketDate">Current Market Date: 2019-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048647.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02483076</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97347" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Sonidegib"></div>
 <span class="generic">Sonidegib</span> <span class="brand">ODOMZO</span>
-<span class="class">Hedgehog Pathway Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02500337</span>
-<table>
+
+<span class="class">Hedgehog Pathway Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1032,16 +1249,18 @@ No labelled dose reduction for renal&#x2F;hepatic dysfxn though adjusted for CK 
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">44188</span>
-<span class="currentMarketDate">44188</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056602.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;99003" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Dec </span> <span class="currentMarketDate">Current Market Date: 2020-Dec</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056602.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02500337</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;99003" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Vismodegib"></div>
 <span class="generic">Vismodegib</span> <span class="brand">ERIVEDGE</span>
-<span class="class">Hedgehog Pathway Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02409267</span>
-<table>
+
+<span class="class">Hedgehog Pathway Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1064,16 +1283,18 @@ No dose adjustments listed but may need to be held for toxicities (cutaneous)</s
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">41495</span>
-<span class="currentMarketDate">41495</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056365.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89398" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Aug </span> <span class="currentMarketDate">Current Market Date: 2013-Aug</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056365.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02409267</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89398" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Trastuzumab"></div>
 <span class="generic">Trastuzumab</span> <span class="brand">HERCEPTIN</span>
-<span class="class">HER2 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02480697</span>
-<table>
+
+<span class="class">HER2 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1094,16 +1315,18 @@ May need to be held for LVEF decreases</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43385</span>
-<span class="currentMarketDate">43385</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056300.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97124" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-Oct </span> <span class="currentMarketDate">Current Market Date: 2018-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056300.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02480697</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97124" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Pertuzumab"></div>
 <span class="generic">Pertuzumab</span> <span class="brand">PERJETA</span>
-<span class="class">HER2 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02405016</span>
-<table>
+
+<span class="class">HER2 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1125,16 +1348,18 @@ held if (along with tras) for LVEF decreases</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">41402</span>
-<span class="currentMarketDate">41402</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060125.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88984" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-May </span> <span class="currentMarketDate">Current Market Date: 2013-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060125.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02405016</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88984" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Lapatinib"></div>
 <span class="generic">Lapatinib</span> <span class="brand">TYKERB</span>
-<span class="class">HER2 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02326442</span>
-<table>
+
+<span class="class">HER2 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1157,16 +1382,18 @@ Dose adjust in significant hepatic toxicity, cardiac, derm, GI, pulmonary</span>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">39969</span>
-<span class="currentMarketDate">42479</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048842.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;81179" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2009-Jun </span> <span class="currentMarketDate">Current Market Date: 2016-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00048842.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02326442</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;81179" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Darolutamide"></div>
 <span class="generic">Darolutamide</span> <span class="brand">NUBEQA</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">02496348</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1188,16 +1415,18 @@ dose reduced in renal and hepatic dysfxn as well as toxicities (grade 3 general)
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43914</span>
-<span class="currentMarketDate">43914</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062165.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98622" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Mar </span> <span class="currentMarketDate">Current Market Date: 2020-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062165.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02496348</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98622" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Siltuximab"></div>
 <span class="generic">Siltuximab</span> <span class="brand">SYLVANT</span>
-<span class="class">IL6 inhibitor</span> <span class="oral">N</span>
-<span class="din">02435128</span>
-<table>
+
+<span class="class">IL6 inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1219,16 +1448,18 @@ Dose adjustments not studies</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42066</span>
-<span class="currentMarketDate">44222</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059834.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91940" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2015-Mar </span> <span class="currentMarketDate">Current Market Date: 2021-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059834.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02435128</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91940" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Niraparib"></div>
 <span class="generic">Niraparib</span> <span class="brand">ZEJULA</span>
-<span class="class">PARP Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02489783</span>
-<table>
+
+<span class="class">PARP Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1250,16 +1481,18 @@ Dose adjusted for hepatic dysfxn and various toxicities (cytopenia, GI)
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43839</span>
-<span class="currentMarketDate">43839</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058166.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97986" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Jan </span> <span class="currentMarketDate">Current Market Date: 2020-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058166.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02489783</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97986" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Olaparib"></div>
 <span class="generic">Olaparib</span> <span class="brand">LYNPARZA</span>
-<span class="class">PARP Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02475200</span>
-<table>
+
+<span class="class">PARP Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1285,16 +1518,53 @@ Dose adjusted in renal dysfxn, and other toxicity (cytopenia, GI, pneumonitis)
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43243</span>
-<span class="currentMarketDate">43243</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061411.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96554" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-May </span> <span class="currentMarketDate">Current Market Date: 2018-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061411.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02475200</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96554" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Ipilimumab"></div>
+<span class="generic">Ipilimumab</span> <span class="brand">YERVOY</span>
+
+<span class="class">CTLA-4 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
+<tbody>
+<tr>
+<td>Target</td>
+<td><span class="target">Cytotoxic T Lymphocyte Associated Antigen</span></td>
+</tr>
+<tr>
+<td>Indication</td>
+<td><span class="ind">Met melanoma, met renal ca</span></td>
+</tr>
+<tr>
+<td>Mechanism</td>
+<td><span class="mech">IgG MAB that binds cytotoxic T-Lymphocyte associated antigen 4 (CTLA-4).
+CTLA-4 down regulates T cells and by blocking it T cells are able to be activated against tumor cells (renal ca &#x2F;melanoma)
+Used in combination with nivolumab to synergy</span></td>
+</tr>
+<tr>
+<td>Kinetics</td>
+<td><span class="kinetics">T1&#x2F;2: 15.4 days
+Unique immune mediated toxicity profile. Dose delays for various toxicities (hepatic, renal, GI, cutaneous, thyroid etc)
+</span></td>
+</tr>
+</tbody>
+</table>
+<span class="originalMarketDate">Orig Market Date: 2012-Mar </span> <span class="currentMarketDate">Current Market Date: 2012-Mar</span>
+
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060643.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02379384</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86525" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Cemiplimab"></div>
 <span class="generic">Cemiplimab</span> <span class="brand">LIBTAYO</span>
-<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02487152</span>
-<table>
+
+<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1317,16 +1587,18 @@ Immune mediated side effects (Hepatic, GI, cutaneous, pulmonary etc)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43609</span>
-<span class="currentMarketDate">43609</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058044.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97727" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-May </span> <span class="currentMarketDate">Current Market Date: 2019-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058044.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02487152</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97727" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Avelumab"></div>
 <span class="generic">Avelumab</span> <span class="brand">BAVENCIO</span>
-<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02469723</span>
-<table>
+
+<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1348,16 +1620,18 @@ Immune mediated dose adjustment&#x2F;hold</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43087</span>
-<span class="currentMarketDate">43087</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059619.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95856" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2017-Dec </span> <span class="currentMarketDate">Current Market Date: 2017-Dec</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059619.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02469723</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95856" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Durvalumab"></div>
 <span class="generic">Durvalumab</span> <span class="brand">IMFINZI</span>
-<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02468816</span>
-<table>
+
+<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1379,16 +1653,18 @@ Extensive stage small cell lung ca with chemo (etop&#x2F;platinum)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">43059</span>
-<span class="currentMarketDate">43059</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060587.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95736" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2017-Nov </span> <span class="currentMarketDate">Current Market Date: 2017-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060587.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02468816</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95736" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Pembrolizumab"></div>
 <span class="generic">Pembrolizumab</span> <span class="brand">KEYTRUDA</span>
-<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02456869</span>
-<table>
+
+<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1408,16 +1684,18 @@ Extensive stage small cell lung ca with chemo (etop&#x2F;platinum)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42929</span>
-<span class="currentMarketDate">42929</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062141.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94388" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2017-Jul </span> <span class="currentMarketDate">Current Market Date: 2017-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062141.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02456869</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94388" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Atezolizumab"></div>
 <span class="generic">Atezolizumab</span> <span class="brand">TECENTRIQ</span>
-<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02462990</span>
-<table>
+
+<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1437,16 +1715,18 @@ Extensive stage small cell lung ca with chemo (etop&#x2F;platinum)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42857</span>
-<span class="currentMarketDate">42857</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061767.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95089" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2017-May </span> <span class="currentMarketDate">Current Market Date: 2017-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061767.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02462990</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;95089" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Nivolumab"></div>
 <span class="generic">Nivolumab</span> <span class="brand">OPDIVO</span>
-<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">N</span>
-<span class="din">02446626</span>
-<table>
+
+<span class="class">PD-1&#x2F;PD-L1 Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1466,16 +1746,18 @@ Extensive stage small cell lung ca with chemo (etop&#x2F;platinum)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42300</span>
-<span class="currentMarketDate">42300</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062198.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93204" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2015-Oct </span> <span class="currentMarketDate">Current Market Date: 2015-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062198.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02446626</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93204" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Alpelisib"></div>
 <span class="generic">Alpelisib</span> <span class="brand">PIQRAY</span>
-<span class="class">PI3 Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02497069</span>
-<table>
+
+<span class="class">PI3 Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1496,16 +1778,18 @@ Dose adjusted for various toxicities (derm, GI, glucose,pancreatitis, lung)</spa
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">44011</span>
-<span class="currentMarketDate">44011</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061787.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98692" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Jun </span> <span class="currentMarketDate">Current Market Date: 2020-Jun</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061787.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02497069</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98692" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Idelalisib"></div>
 <span class="generic">Idelalisib</span> <span class="brand">ZYDELIG</span>
-<span class="class">PI3 Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02438798</span>
-<table>
+
+<span class="class">PI3 Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1527,16 +1811,87 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">42115</span>
-<span class="currentMarketDate">42115</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057731.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92318" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2015-Apr </span> <span class="currentMarketDate">Current Market Date: 2015-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057731.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02438798</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92318" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Venetoclax"></div>
+<span class="generic">Venetoclax</span> <span class="brand">VENCLEXTA</span>
+
+<span class="class">BCL2 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
+<tbody>
+<tr>
+<td>Target</td>
+<td><span class="target">B Cell Lymphocyte 2 (BCL2)</span></td>
+</tr>
+<tr>
+<td>Indication</td>
+<td><span class="ind">CLL in combo with obinituzumab or rituximab
+AML in combination with azacitidine</span></td>
+</tr>
+<tr>
+<td>Mechanism</td>
+<td><span class="mech">BCL-2 is an anti-apoptotic protein overexpressed in CLL and AML cells. Venetoclax binds directly to BCL-2 restoring apoptotic process.</span></td>
+</tr>
+<tr>
+<td>Kinetics</td>
+<td><span class="kinetics">T1&#x2F;2: 26hr
+3A4
+Dose adjusted in severe hepatic and for toxicities (primarily hematologic)</span></td>
+</tr>
+</tbody>
+</table>
+<span class="originalMarketDate">Orig Market Date: 2016-Oct </span> <span class="currentMarketDate">Current Market Date: 2016-Oct</span>
+
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059710.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02458039</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94509" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Imatinib"></div>
+<span class="generic">Imatinib</span> <span class="brand">GLEEVEC</span>
+
+<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
+<tbody>
+<tr>
+<td>Target</td>
+<td><span class="target">BCR-ABL</span></td>
+</tr>
+<tr>
+<td>Indication</td>
+<td><span class="ind">CML Ph+, ALL Ph+, MDS (PDGFR gene rearrangment),
+Systemic mastocytosis with cKIT mutation, GIST tumor and others</span></td>
+</tr>
+<tr>
+<td>Mechanism</td>
+<td><span class="mech">In leukemia imatinib is a potent inhibitor of the BCR-ABL fusion protein which is a tyrosine kinase which drives cell devision. Inhibition of the TK inhibits tumor cell growth.</span></td>
+</tr>
+<tr>
+<td>Kinetics</td>
+<td><span class="kinetics">T1&#x2F;2: 18hr (metabolite 40hr)
+CYP 3A4 substrate and inhibitor
+*interaction with acetaminophen
+Dose reduced in hepatic and renal impairment as well as toxicity</span></td>
+</tr>
+</tbody>
+</table>
+<span class="originalMarketDate">Orig Market Date: 2005-Apr </span> <span class="currentMarketDate">Current Market Date: 2005-Apr</span>
+
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053452.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02253275</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;73824" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Lacrotrectinib"></div>
 <span class="generic">Lacrotrectinib</span> <span class="brand">VITRAKVI</span>
-<span class="class">TRK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02490315</span>
-<table>
+
+<span class="class">TRK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1544,28 +1899,27 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">44148</span>
-<span class="currentMarketDate">44148</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98037" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Nov </span> <span class="currentMarketDate">Current Market Date: 2020-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02490315</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98037" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Entrectinib"></div>
 <span class="generic">Entrectinib</span> <span class="brand">ROZLYTREK</span>
-<span class="class">TRK Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02495007</span>
-<table>
+
+<span class="class">TRK Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1573,28 +1927,27 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">43900</span>
-<span class="currentMarketDate">43900</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98496" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2020-Mar </span> <span class="currentMarketDate">Current Market Date: 2020-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02495007</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;98496" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Lenvatinib"></div>
 <span class="generic">Lenvatinib</span> <span class="brand">LENVIMA</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02484129</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1602,28 +1955,27 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">43759</span>
-<span class="currentMarketDate">43759</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97445" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-Oct </span> <span class="currentMarketDate">Current Market Date: 2019-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02484129</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97445" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Dacometinib"></div>
 <span class="generic">Dacometinib</span> <span class="brand">VIZIMPRO</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02486024</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1631,28 +1983,27 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">43577</span>
-<span class="currentMarketDate">43577</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97625" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2019-Apr </span> <span class="currentMarketDate">Current Market Date: 2019-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02486024</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97625" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Ramucirumab"></div>
 <span class="generic">Ramucirumab</span> <span class="brand">Cyramza</span>
-<span class="class">VEGF Inhibitor MAB</span> <span class="oral">N</span>
-<span class="din">02443805</span>
-<table>
+
+<span class="class">VEGF Inhibitor MAB</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1660,28 +2011,27 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">42257</span>
-<span class="currentMarketDate">42257</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92855" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2015-Sep </span> <span class="currentMarketDate">Current Market Date: 2015-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02443805</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92855" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Bevacizumab"></div>
 <span class="generic">Bevacizumab</span> <span class="brand">AVASTIN</span>
-<span class="class">VEGF Inhibitor MAB</span> <span class="oral">N</span>
-<span class="din">02270994</span>
-<table>
+
+<span class="class">VEGF Inhibitor MAB</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1689,28 +2039,27 @@ dose adjusted for toxicity (derm, GI, heme, lung,)</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">38658</span>
-<span class="currentMarketDate">38658</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75642" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2005-Nov </span> <span class="currentMarketDate">Current Market Date: 2005-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02270994</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75642" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Cyclophosphamide"></div>
 <span class="generic">Cyclophosphamide</span> <span class="brand">PROCYTOX</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">02241795</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1733,16 +2082,18 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 </tbody>
 </table>
-<span class="originalMarketDate">36770</span>
-<span class="currentMarketDate">37897</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00017604.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;65460" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2000-Sep </span> <span class="currentMarketDate">Current Market Date: 2003-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00017604.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02241795</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;65460" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Temozolomide"></div>
 <span class="generic">Temozolomide</span> <span class="brand">TEMODAL</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">02241093</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1750,28 +2101,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">36476</span>
-<span class="currentMarketDate">40983</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;64696" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1999-Nov </span> <span class="currentMarketDate">Current Market Date: 2012-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02241093</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;64696" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Hydroxyurea"></div>
 <span class="generic">Hydroxyurea</span> <span class="brand">HYDREA</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">00465283</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1779,28 +2129,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">29220</span>
-<span class="currentMarketDate">38289</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;3453" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1979-Dec </span> <span class="currentMarketDate">Current Market Date: 2004-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00465283</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;3453" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Lomustine"></div>
 <span class="generic">Lomustine</span> <span class="brand">CEENU</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">00360422</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1808,28 +2157,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">28125</span>
-<span class="currentMarketDate">40161</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;2530" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1976-Dec </span> <span class="currentMarketDate">Current Market Date: 2009-Dec</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00360422</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;2530" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Procarbazine"></div>
 <span class="generic">Procarbazine</span> <span class="brand">MATULANE</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">00012750</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1837,28 +2185,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">25933</span>
-<span class="currentMarketDate">43229</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;938" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1970-Dec </span> <span class="currentMarketDate">Current Market Date: 2018-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00012750</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;938" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Melphalan"></div>
 <span class="generic">Melphalan</span> <span class="brand">ALKERAN</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">00004715</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1866,28 +2213,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">23742</span>
-<span class="currentMarketDate">42789</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1195" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1964-Dec </span> <span class="currentMarketDate">Current Market Date: 2017-Feb</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00004715</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1195" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Chorambucil"></div>
 <span class="generic">Chorambucil</span> <span class="brand">LEUKERAN</span>
-<span class="class">Alkylating Agent</span> <span class="oral">Y</span>
-<span class="din">00004626</span>
-<table>
+
+<span class="class">Alkylating Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1895,28 +2241,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">21185</span>
-<span class="currentMarketDate">43040</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1193" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1957-Dec </span> <span class="currentMarketDate">Current Market Date: 2017-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00004626</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;1193" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Exemestane"></div>
 <span class="generic">Exemestane</span> <span class="brand">AROMASIN</span>
-<span class="class">Aromatase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02242705</span>
-<table>
+
+<span class="class">Aromatase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1924,28 +2269,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">36755</span>
-<span class="currentMarketDate">38307</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;66502" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2000-Aug </span> <span class="currentMarketDate">Current Market Date: 2004-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02242705</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;66502" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Letrozole"></div>
 <span class="generic">Letrozole</span> <span class="brand">FEMARA</span>
-<span class="class">Aromatase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02231384</span>
-<table>
+
+<span class="class">Aromatase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1953,28 +2297,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">35660</span>
-<span class="currentMarketDate">35675</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;50695" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1997-Aug </span> <span class="currentMarketDate">Current Market Date: 1997-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02231384</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;50695" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Anastrazole"></div>
 <span class="generic">Anastrazole</span> <span class="brand">ARIMIDEX</span>
-<span class="class">Aromatase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02224135</span>
-<table>
+
+<span class="class">Aromatase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -1982,57 +2325,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">35307</span>
-<span class="currentMarketDate">37281</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;43395" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1996-Aug </span> <span class="currentMarketDate">Current Market Date: 2002-Jan</span>
 
-<span class="generic">Venetoclax</span> <span class="brand">VENCLEXTA</span>
-<span class="class">BCL2 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02458039</span>
-<table>
-<tbody>
-<tr>
-<td>Target</td>
-<td><span class="target">B Cell Lymphocyte 2 (BCL2)</span></td>
-</tr>
-<tr>
-<td>Indication</td>
-<td><span class="ind"></span></td>
-</tr>
-<tr>
-<td>Mechanism</td>
-<td><span class="mech"></span></td>
-</tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
-</tbody>
-</table>
-<span class="originalMarketDate">42674</span>
-<span class="currentMarketDate">42674</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059710.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94509" target="_blank" class="HCpagelink">HC Page</a>
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02224135</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;43395" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
 ---
-
+<div id="Ponatininb"></div>
 <span class="generic">Ponatininb</span> <span class="brand">ICLUSIG</span>
-<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02437333</span>
-<table>
+
+<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2040,28 +2353,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">42237</span>
-<span class="currentMarketDate">42237</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92168" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2015-Aug </span> <span class="currentMarketDate">Current Market Date: 2015-Aug</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02437333</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;92168" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Bosutinib"></div>
 <span class="generic">Bosutinib</span> <span class="brand">BOSULIF</span>
-<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02419149</span>
-<table>
+
+<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2069,28 +2381,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41753</span>
-<span class="currentMarketDate">41753</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90368" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Apr </span> <span class="currentMarketDate">Current Market Date: 2014-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02419149</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90368" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Nilotinib"></div>
 <span class="generic">Nilotinib</span> <span class="brand">TASIGNA</span>
-<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02315874</span>
-<table>
+
+<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2098,28 +2409,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">39721</span>
-<span class="currentMarketDate">39721</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;80138" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2008-Sep </span> <span class="currentMarketDate">Current Market Date: 2008-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02315874</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;80138" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Dasatinib"></div>
 <span class="generic">Dasatinib</span> <span class="brand">SPRYCEL</span>
-<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02293129</span>
-<table>
+
+<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2127,57 +2437,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">39185</span>
-<span class="currentMarketDate">39185</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;77850" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2007-Apr </span> <span class="currentMarketDate">Current Market Date: 2007-Apr</span>
 
-<span class="generic">Imatinib</span> <span class="brand">GLEEVEC</span>
-<span class="class">BCR-ABL Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02253275</span>
-<table>
-<tbody>
-<tr>
-<td>Target</td>
-<td><span class="target">BCR-ABL</span></td>
-</tr>
-<tr>
-<td>Indication</td>
-<td><span class="ind"></span></td>
-</tr>
-<tr>
-<td>Mechanism</td>
-<td><span class="mech"></span></td>
-</tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
-</tbody>
-</table>
-<span class="originalMarketDate">38447</span>
-<span class="currentMarketDate">38447</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00053452.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;73824" target="_blank" class="HCpagelink">HC Page</a>
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02293129</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;77850" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
 ---
-
+<div id="Dabrafenib"></div>
 <span class="generic">Dabrafenib</span> <span class="brand">TAFINLAR</span>
-<span class="class">BRAF Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02409607</span>
-<table>
+
+<span class="class">BRAF Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2185,28 +2465,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41514</span>
-<span class="currentMarketDate">42640</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89429" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Aug </span> <span class="currentMarketDate">Current Market Date: 2016-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02409607</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89429" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Vemurafenib"></div>
 <span class="generic">Vemurafenib</span> <span class="brand">ZELBORAF</span>
-<span class="class">BRAF Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02380242</span>
-<table>
+
+<span class="class">BRAF Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2214,28 +2493,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">40973</span>
-<span class="currentMarketDate">40973</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86606" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2012-Mar </span> <span class="currentMarketDate">Current Market Date: 2012-Mar</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02380242</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86606" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Osimertinib"></div>
 <span class="generic">Osimertinib</span> <span class="brand">TAGRISSO</span>
-<span class="class">EGFR Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02456214</span>
-<table>
+
+<span class="class">EGFR Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2243,28 +2521,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">42570</span>
-<span class="currentMarketDate">42570</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94310" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2016-Jul </span> <span class="currentMarketDate">Current Market Date: 2016-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02456214</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94310" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Afatinib"></div>
 <span class="generic">Afatinib</span> <span class="brand">GIOTRIF</span>
-<span class="class">EGFR Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02415666</span>
-<table>
+
+<span class="class">EGFR Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2272,28 +2549,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41656</span>
-<span class="currentMarketDate">41656</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90026" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Jan </span> <span class="currentMarketDate">Current Market Date: 2014-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02415666</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90026" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Erlotinib"></div>
 <span class="generic">Erlotinib</span> <span class="brand">TARCEVA</span>
-<span class="class">EGFR Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02269007</span>
-<table>
+
+<span class="class">EGFR Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2301,28 +2577,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">39087</span>
-<span class="currentMarketDate">39087</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75441" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2007-Jan </span> <span class="currentMarketDate">Current Market Date: 2007-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02269007</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;75441" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Gefitinib"></div>
 <span class="generic">Gefitinib</span> <span class="brand">IRESSA</span>
-<span class="class">EGFR Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02248676</span>
-<table>
+
+<span class="class">EGFR Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2330,28 +2605,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">37972</span>
-<span class="currentMarketDate">37972</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;73040" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2003-Dec </span> <span class="currentMarketDate">Current Market Date: 2003-Dec</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02248676</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;73040" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Abiraterone"></div>
 <span class="generic">Abiraterone</span> <span class="brand">ZYTIGA</span>
-<span class="class">Enzyme inhibitor</span> <span class="oral">Y</span>
-<span class="din">02457113</span>
-<table>
+
+<span class="class">Enzyme inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2359,28 +2633,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">42635</span>
-<span class="currentMarketDate">42635</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94420" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2016-Sep </span> <span class="currentMarketDate">Current Market Date: 2016-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02457113</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;94420" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Romidepsin"></div>
 <span class="generic">Romidepsin</span> <span class="brand">ISTODAX</span>
-<span class="class">HDAC Inhibitor</span> <span class="oral">N</span>
-<span class="din">02414295</span>
-<table>
+
+<span class="class">HDAC Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2388,28 +2661,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41675</span>
-<span class="currentMarketDate">41675</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89895" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Feb </span> <span class="currentMarketDate">Current Market Date: 2014-Feb</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02414295</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89895" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Apalutamide"></div>
 <span class="generic">Apalutamide</span> <span class="brand">ERLEADA</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">02478374</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2417,28 +2689,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">43308</span>
-<span class="currentMarketDate">43308</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96913" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-Jul </span> <span class="currentMarketDate">Current Market Date: 2018-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02478374</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;96913" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Enzalutamide"></div>
 <span class="generic">Enzalutamide</span> <span class="brand">XTANDI</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">02407329</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2446,28 +2717,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41432</span>
-<span class="currentMarketDate">41432</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89203" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Jun </span> <span class="currentMarketDate">Current Market Date: 2013-Jun</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02407329</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89203" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Flutamide"></div>
 <span class="generic">Flutamide</span> <span class="brand">EUFLEX</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">02238560</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2475,28 +2745,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">36076</span>
-<span class="currentMarketDate">43976</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;61987" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1998-Oct </span> <span class="currentMarketDate">Current Market Date: 2020-May</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02238560</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;61987" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Nilutamide"></div>
 <span class="generic">Nilutamide</span> <span class="brand">ANANDRON</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">02221861</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2504,28 +2773,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">35662</span>
-<span class="currentMarketDate">43983</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;43312" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1997-Aug </span> <span class="currentMarketDate">Current Market Date: 2020-Jun</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02221861</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;43312" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Bicalutamide"></div>
 <span class="generic">Bicalutamide</span> <span class="brand">CASODEX</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">02184478</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2533,28 +2801,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">35430</span>
-<span class="currentMarketDate">37270</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;19647" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1996-Dec </span> <span class="currentMarketDate">Current Market Date: 2002-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02184478</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;19647" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Tamoxifen"></div>
 <span class="generic">Tamoxifen</span> <span class="brand">TAMOFEN</span>
-<span class="class">Hormonal Agent</span> <span class="oral">Y</span>
-<span class="din">00812404</span>
-<table>
+
+<span class="class">Hormonal Agent</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2562,28 +2829,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">32873</span>
-<span class="currentMarketDate">32873</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;10664" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1989-Dec </span> <span class="currentMarketDate">Current Market Date: 1989-Dec</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00812404</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;10664" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Pomalidomide"></div>
 <span class="generic">Pomalidomide</span> <span class="brand">POMALYST</span>
-<span class="class">Immunomodulator</span> <span class="oral">Y</span>
-<span class="din">02419580</span>
-<table>
+
+<span class="class">Immunomodulator</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2591,28 +2857,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41694</span>
-<span class="currentMarketDate">41694</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90423" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Feb </span> <span class="currentMarketDate">Current Market Date: 2014-Feb</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02419580</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;90423" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Thalidomide"></div>
 <span class="generic">Thalidomide</span> <span class="brand">THALOMID</span>
-<span class="class">Immunomodulator</span> <span class="oral">Y</span>
-<span class="din">02355191</span>
-<table>
+
+<span class="class">Immunomodulator</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2620,28 +2885,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">40483</span>
-<span class="currentMarketDate">40483</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;84045" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2010-Nov </span> <span class="currentMarketDate">Current Market Date: 2010-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02355191</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;84045" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Lenalidomide"></div>
 <span class="generic">Lenalidomide</span> <span class="brand">REVLIMID</span>
-<span class="class">Immunomodulator</span> <span class="oral">Y</span>
-<span class="din">02304899</span>
-<table>
+
+<span class="class">Immunomodulator</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2649,28 +2913,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">39497</span>
-<span class="currentMarketDate">39497</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;79016" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2008-Feb </span> <span class="currentMarketDate">Current Market Date: 2008-Feb</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02304899</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;79016" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Ruxolitinib"></div>
 <span class="generic">Ruxolitinib</span> <span class="brand">JAKAVI</span>
-<span class="class">JAK1&#x2F;2 Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02388006</span>
-<table>
+
+<span class="class">JAK1&#x2F;2 Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2678,28 +2941,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41109</span>
-<span class="currentMarketDate">41109</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;87357" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2012-Jul </span> <span class="currentMarketDate">Current Market Date: 2012-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02388006</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;87357" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Cobimetinib"></div>
 <span class="generic">Cobimetinib</span> <span class="brand">COTELLIC</span>
-<span class="class">MEK1&#x2F;2 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02452340</span>
-<table>
+
+<span class="class">MEK1&#x2F;2 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2707,28 +2969,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">42466</span>
-<span class="currentMarketDate">42466</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93872" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2016-Apr </span> <span class="currentMarketDate">Current Market Date: 2016-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02452340</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;93872" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Trametinib"></div>
 <span class="generic">Trametinib</span> <span class="brand">MEKINIST</span>
-<span class="class">MEK1&#x2F;2 Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02409623</span>
-<table>
+
+<span class="class">MEK1&#x2F;2 Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2736,28 +2997,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41514</span>
-<span class="currentMarketDate">42555</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89431" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Aug </span> <span class="currentMarketDate">Current Market Date: 2016-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02409623</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89431" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Arsenic Trioxide"></div>
 <span class="generic">Arsenic Trioxide</span> <span class="brand">TRISENOX</span>
-<span class="class">Misc</span> <span class="oral">N</span>
-<span class="din">02407833</span>
-<table>
+
+<span class="class">Misc</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2765,28 +3025,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41526</span>
-<span class="currentMarketDate">43300</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89255" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Sep </span> <span class="currentMarketDate">Current Market Date: 2018-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02407833</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;89255" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Dexamethasone"></div>
 <span class="generic">Dexamethasone</span> <span class="brand">DECADRON</span>
-<span class="class">Misc</span> <span class="oral">Y</span>
-<span class="din">02023865</span>
-<table>
+
+<span class="class">Misc</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2794,28 +3053,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">34699</span>
-<span class="currentMarketDate">34699</span>
-<a href="" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;16262" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1994-Dec </span> <span class="currentMarketDate">Current Market Date: 1994-Dec</span>
 
+<div><a href="" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02023865</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;16262" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Prednisone"></div>
 <span class="generic">Prednisone</span> <span class="brand"></span>
-<span class="class">Misc</span> <span class="oral">Y</span>
-<span class="din">00312770</span>
-<table>
+
+<span class="class">Misc</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2823,28 +3081,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">30316</span>
-<span class="currentMarketDate">30316</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;4732" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1982-Dec </span> <span class="currentMarketDate">Current Market Date: 1982-Dec</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00312770</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;4732" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Mitotane"></div>
 <span class="generic">Mitotane</span> <span class="brand">LYSODREN</span>
-<span class="class">MIsc</span> <span class="oral">Y</span>
-<span class="din">00463221</span>
-<table>
+
+<span class="class">MIsc</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2852,28 +3109,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">29220</span>
-<span class="currentMarketDate">44230</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;3348" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1979-Dec </span> <span class="currentMarketDate">Current Market Date: 2021-Feb</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00463221</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;3348" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Temsirolimus"></div>
 <span class="generic">Temsirolimus</span> <span class="brand">TORISEL</span>
-<span class="class">mTOR Inhibitor</span> <span class="oral">N</span>
-<span class="din">02304104</span>
-<table>
+
+<span class="class">mTOR Inhibitor</span> <span class="oral">Parenteral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2881,28 +3137,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">39458</span>
-<span class="currentMarketDate">40735</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;78941" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2008-Jan </span> <span class="currentMarketDate">Current Market Date: 2011-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02304104</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;78941" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Everolimus"></div>
 <span class="generic">Everolimus</span> <span class="brand">AFINITOR</span>
-<span class="class">mTOR Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02425645</span>
-<table>
+
+<span class="class">mTOR Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2910,28 +3165,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41971</span>
-<span class="currentMarketDate">41971</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91028" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2014-Nov </span> <span class="currentMarketDate">Current Market Date: 2014-Nov</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02425645</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;91028" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Etoposide"></div>
 <span class="generic">Etoposide</span> <span class="brand">VEPESID</span>
-<span class="class">Topoisomerase II Inhibitor</span> <span class="oral">Y</span>
-<span class="din">00616192</span>
-<table>
+
+<span class="class">Topoisomerase II Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2939,28 +3193,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">31047</span>
-<span class="currentMarketDate">43832</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;5963" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 1984-Dec </span> <span class="currentMarketDate">Current Market Date: 2020-Jan</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 00616192</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;5963" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Cabozantinib"></div>
 <span class="generic">Cabozantinib</span> <span class="brand">CABOMETYX</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02480824</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2968,28 +3221,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">43383</span>
-<span class="currentMarketDate">43383</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97148" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2018-Oct </span> <span class="currentMarketDate">Current Market Date: 2018-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02480824</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;97148" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Regorafenib"></div>
 <span class="generic">Regorafenib</span> <span class="brand">STIVARGA</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02403390</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -2997,28 +3249,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41366</span>
-<span class="currentMarketDate">41366</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88820" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2013-Apr </span> <span class="currentMarketDate">Current Market Date: 2013-Apr</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02403390</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;88820" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Vandetanib"></div>
 <span class="generic">Vandetanib</span> <span class="brand">CAPRELSA</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02378582</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -3026,28 +3277,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">40962</span>
-<span class="currentMarketDate">43039</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86437" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2012-Feb </span> <span class="currentMarketDate">Current Market Date: 2017-Oct</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02378582</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;86437" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Pazopanib"></div>
 <span class="generic">Pazopanib</span> <span class="brand">VOTRIENT</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02352303</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -3055,28 +3305,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">40403</span>
-<span class="currentMarketDate">42620</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;83758" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2010-Aug </span> <span class="currentMarketDate">Current Market Date: 2016-Sep</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02352303</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;83758" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Sorafenib"></div>
 <span class="generic">Sorafenib</span> <span class="brand">NEXAVAR</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02284227</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -3084,28 +3333,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">38929</span>
-<span class="currentMarketDate">38929</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;76977" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2006-Jul </span> <span class="currentMarketDate">Current Market Date: 2006-Jul</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02284227</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;76977" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Sunitinib"></div>
 <span class="generic">Sunitinib</span> <span class="brand">SUTENT</span>
-<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02280795</span>
-<table>
+
+<span class="class">Tyrosine Kinase Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -3113,28 +3361,27 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">38890</span>
-<span class="currentMarketDate">38890</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;76647" target="_blank" class="HCpagelink">HC Page</a>
----
+<span class="originalMarketDate">Orig Market Date: 2006-Jun </span> <span class="currentMarketDate">Current Market Date: 2006-Jun</span>
 
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02280795</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;76647" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
+---
+<div id="Axitinib"></div>
 <span class="generic">Axitinib</span> <span class="brand">INLYTA</span>
-<span class="class">VEGF Inhibitor</span> <span class="oral">Y</span>
-<span class="din">02389630</span>
-<table>
+
+<span class="class">VEGF Inhibitor</span> <span class="oral">Oral</span>
+
+<table class="datatbl">
 <tbody>
 <tr>
 <td>Target</td>
@@ -3142,20 +3389,18 @@ Adjust in significant renal dysfxn</span></td>
 </tr>
 <tr>
 <td>Indication</td>
-<td><span class="ind"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF#INDICATIONS%20AND%20CLINICAL%20USE" target="_blank">HC Monograph Indications</a></td>
 </tr>
 <tr>
 <td>Mechanism</td>
-<td><span class="mech"></span></td>
+<td><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Mechanism and Pharmacology</a></td>
 </tr>
-<tr>
-<td>Kinetics</td>
-<td><span class="kinetics"></span></td>
-</tr>
+
 </tbody>
 </table>
-<span class="originalMarketDate">41138</span>
-<span class="currentMarketDate">41138</span>
-<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF" target="_blank" class="HCdirlink">HC Direct Link</a>
-<a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;87513" target="_blank" class="HCpagelink">HC Page</a>
+<span class="originalMarketDate">Orig Market Date: 2012-Aug </span> <span class="currentMarketDate">Current Market Date: 2012-Aug</span>
+
+<div><a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF" target="_blank" class="HCdirlink">HC Monograph</a> <span class="din"> DIN: 02389630</span></div>
+<div><a href="https:&#x2F;&#x2F;health-products.canada.ca&#x2F;dpd-bdpp&#x2F;info.do?lang&#x3D;en&amp;code&#x3D;87513" target="_blank" class="HCpagelink">HC Page</a></div>
+<div><a class="toclink" href="#/TOC">TOC</a></div>
 ---
