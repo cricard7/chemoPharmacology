@@ -26,3 +26,4 @@ Print: [Link to printable version - chrome only](https://cricard7.github.io/chem
 
 ## Contributing
 * Feel free to make suggestions and PRs to the template repo
+# 
