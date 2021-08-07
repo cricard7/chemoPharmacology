@@ -73,3 +73,9 @@
   .toclink{
       font-size: 0.5em;
   }
+
+ .scrollable{
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+    height: 700px;
+  }
