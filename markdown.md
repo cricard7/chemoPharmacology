@@ -18,8 +18,8 @@ An online version of this presentation is hosted at <a href="https://cricard7.gi
 
 ---
 
-<section class="scrollable">
-<div id="TOC"></div>
+<div class="scrollable TOC">
+
 
 #### Table of Contents (Scrollable)
 <table class="datatbl">
@@ -492,7 +492,7 @@ An online version of this presentation is hosted at <a href="https://cricard7.gi
 </tbody>
 </table>
 
-</section>
+</div>
 
 ---
 
