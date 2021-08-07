@@ -21,7 +21,7 @@ An online version of this presentation is hosted at <a href="https://cricard7.gi
 <section class="scrollable">
 <div id="TOC"></div>
 
-#### Table of Contents
+#### Table of Contents (Scrollable)
 <table class="datatbl">
 <tbody>
 <tr>
