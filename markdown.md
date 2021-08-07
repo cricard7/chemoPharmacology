@@ -18,136 +18,481 @@ An online version of this presentation is hosted at <a href="https://cricard7.gi
 
 ---
 
+<section class="scrollable">
 <div id="TOC"></div>
 
 #### Table of Contents
+<table class="datatbl">
+<tbody>
+<tr>
+<td><a href="#/Abemaciclib">Abemaciclib</a></td>
+<td><a href="#/Abemaciclib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Abiraterone">Abiraterone</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059559.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Acalabrutinib">Acalabrutinib</a></td>
+<td><a href="#/Acalabrutinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Afatinib">Afatinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00051644.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Alectinib">Alectinib</a></td>
+<td><a href="#/Alectinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Alpelisib">Alpelisib</a></td>
+<td><a href="#/Alpelisib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Anastrazole">Anastrazole</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062049.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Apalutamide">Apalutamide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00062050.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Arsenic Trioxide">Arsenic Trioxide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058402.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Atezolizumab">Atezolizumab</a></td>
+<td><a href="#/Atezolizumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Avelumab">Avelumab</a></td>
+<td><a href="#/Avelumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Axitinib">Axitinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054598.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Bevacizumab">Bevacizumab</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059621.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Bicalutamide">Bicalutamide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040132.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Blinatumomab">Blinatumomab</a></td>
+<td><a href="#/Blinatumomab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Bosutinib">Bosutinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052636.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Brentuximab vedotin">Brentuximab vedotin</a></td>
+<td><a href="#/Brentuximab vedotin">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Brigatinib">Brigatinib</a></td>
+<td><a href="#/Brigatinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Cabozantinib">Cabozantinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00056366.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Capecitabine">Capecitabine</a></td>
+<td><a href="#/Capecitabine">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Cemiplimab">Cemiplimab</a></td>
+<td><a href="#/Cemiplimab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Ceritinib">Ceritinib</a></td>
+<td><a href="#/Ceritinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Cetuximab">Cetuximab</a></td>
+<td><a href="#/Cetuximab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Chorambucil">Chorambucil</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052423.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Cobimetinib">Cobimetinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043025.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Crizotinib">Crizotinib</a></td>
+<td><a href="#/Crizotinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Cyclophosphamide">Cyclophosphamide</a></td>
+<td><a href="#/Cyclophosphamide">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Dabrafenib">Dabrafenib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060490.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Dacometinib">Dacometinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050253.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Daratumumab">Daratumumab</a></td>
+<td><a href="#/Daratumumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Darolutamide">Darolutamide</a></td>
+<td><a href="#/Darolutamide">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Dasatinib">Dasatinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057843.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Dexamethasone">Dexamethasone</a></td>
+<td>
+<a href="#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Dinutuximab">Dinutuximab</a></td>
+<td><a href="#/Dinutuximab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Durvalumab">Durvalumab</a></td>
+<td><a href="#/Durvalumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Entrectinib">Entrectinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059544.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Enzalutamide">Enzalutamide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00057056.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Erlotinib">Erlotinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00047154.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Etoposide">Etoposide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054405.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Everolimus">Everolimus</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060902.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Exemestane">Exemestane</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00044156.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Flutamide">Flutamide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050081.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Gefitinib">Gefitinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060650.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Gemtuzumab Ozogamicin">Gemtuzumab Ozogamicin</a></td>
+<td><a href="#/Gemtuzumab Ozogamicin">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Gilteritinib">Gilteritinib</a></td>
+<td><a href="#/Gilteritinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Hydroxyurea">Hydroxyurea</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054980.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Ibrutinib">Ibrutinib</a></td>
+<td><a href="#/Ibrutinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Idelalisib">Idelalisib</a></td>
+<td><a href="#/Idelalisib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Imatinib">Imatinib</a></td>
+<td><a href="#/Imatinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Inotuzumab Ozogamicin">Inotuzumab Ozogamicin</a></td>
+<td><a href="#/Inotuzumab Ozogamicin">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Ipilimumab">Ipilimumab</a></td>
+<td><a href="#/Ipilimumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Isatuximab">Isatuximab</a></td>
+<td><a href="#/Isatuximab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Lacrotrectinib">Lacrotrectinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060963.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Lapatinib">Lapatinib</a></td>
+<td><a href="#/Lapatinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Lenalidomide">Lenalidomide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052749.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Lenvatinib">Lenvatinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059280.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Letrozole">Letrozole</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040278.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Lomustine">Lomustine</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00033792.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Lorlatinib">Lorlatinib</a></td>
+<td><a href="#/Lorlatinib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Melphalan">Melphalan</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00050468.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Mercaptopurine">Mercaptopurine</a></td>
+<td><a href="#/Mercaptopurine">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Midostaurin">Midostaurin</a></td>
+<td><a href="#/Midostaurin">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Mitotane">Mitotane</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055613.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Nilotinib">Nilotinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00058886.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Nilutamide">Nilutamide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055916.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Niraparib">Niraparib</a></td>
+<td><a href="#/Niraparib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Nivolumab">Nivolumab</a></td>
+<td><a href="#/Nivolumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Obintutuzumab">Obintutuzumab</a></td>
+<td><a href="#/Obintutuzumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Olaparib">Olaparib</a></td>
+<td><a href="#/Olaparib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Osimertinib">Osimertinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059644.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Palbociclib">Palbociclib</a></td>
+<td><a href="#/Palbociclib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Panitumumab">Panitumumab</a></td>
+<td><a href="#/Panitumumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Pazopanib">Pazopanib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055255.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Pembrolizumab">Pembrolizumab</a></td>
+<td><a href="#/Pembrolizumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Pertuzumab">Pertuzumab</a></td>
+<td><a href="#/Pertuzumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Polatuzumab vedotin">Polatuzumab vedotin</a></td>
+<td><a href="#/Polatuzumab vedotin">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Pomalidomide">Pomalidomide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00059857.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Ponatininb">Ponatininb</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052729.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Pralatrexate">Pralatrexate</a></td>
+<td><a href="#/Pralatrexate">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Prednisone">Prednisone</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00030893.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Procarbazine">Procarbazine</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00040636.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Ramucirumab">Ramucirumab</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060742.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Regorafenib">Regorafenib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055344.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Ribociclib">Ribociclib</a></td>
+<td><a href="#/Ribociclib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Rituximab">Rituximab</a></td>
+<td><a href="#/Rituximab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Romidepsin">Romidepsin</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052382.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Ruxolitinib">Ruxolitinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00061980.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Siltuximab">Siltuximab</a></td>
+<td><a href="#/Siltuximab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Sonidegib">Sonidegib</a></td>
+<td><a href="#/Sonidegib">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Sorafenib">Sorafenib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055343.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Sunitinib">Sunitinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00052172.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Tamoxifen">Tamoxifen</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00043973.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Temozolomide">Temozolomide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00039947.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Temsirolimus">Temsirolimus</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00037735.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Thalidomide">Thalidomide</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060578.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Thioguanine">Thioguanine</a></td>
+<td><a href="#/Thioguanine">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Trametinib">Trametinib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00060493.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Trastuzumab">Trastuzumab</a></td>
+<td><a href="#/Trastuzumab">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Trifluridine-tipiracil">Trifluridine-tipiracil</a></td>
+<td><a href="#/Trifluridine-tipiracil">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Vandetanib">Vandetanib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00055721.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Vemurafenib">Vemurafenib</a></td>
+<td>
+<a href="https:&#x2F;&#x2F;pdf.hres.ca&#x2F;dpd_pm&#x2F;00054278.PDF#ACTION%20AND%20CLINICAL%20PHARMACOLOGY" target="_blank">HC Monograph Link Only</a></td>
+</tr>
+<tr>
+<td><a href="#/Venetoclax">Venetoclax</a></td>
+<td><a href="#/Venetoclax">Link To Slide</a></td>
+</tr>
+<tr>
+<td><a href="#/Vismodegib">Vismodegib</a></td>
+<td><a href="#/Vismodegib">Link To Slide</a></td>
+</tr>
+</tbody>
+</table>
 
-- <a href="#/Lorlatinib">Lorlatinib</a>
-- <a href="#/Brigatinib">Brigatinib</a>
-- <a href="#/Alectinib">Alectinib</a>
-- <a href="#/Ceritinib">Ceritinib</a>
-- <a href="#/Crizotinib">Crizotinib</a>
-- <a href="#/Blinatumomab">Blinatumomab</a>
-- <a href="#/Obintutuzumab">Obintutuzumab</a>
-- <a href="#/Rituximab">Rituximab</a>
-- <a href="#/Isatuximab">Isatuximab</a>
-- <a href="#/Daratumumab">Daratumumab</a>
-- <a href="#/Pralatrexate">Pralatrexate</a>
-
----
-
-- <a href="#/Trifluridine-tipiracil">Trifluridine-tipiracil</a>
-- <a href="#/Capecitabine">Capecitabine</a>
-- <a href="#/Thioguanine">Thioguanine</a>
-- <a href="#/Mercaptopurine">Mercaptopurine</a>
-- <a href="#/Acalabrutinib">Acalabrutinib</a>
-- <a href="#/Ibrutinib">Ibrutinib</a>
-- <a href="#/Inotuzumab Ozogamicin">Inotuzumab Ozogamicin</a>
-- <a href="#/Brentuximab vedotin">Brentuximab vedotin</a>
-- <a href="#/Gemtuzumab Ozogamicin">Gemtuzumab Ozogamicin</a>
-- <a href="#/Polatuzumab vedotin">Polatuzumab vedotin</a>
-- <a href="#/Palbociclib">Palbociclib</a>
-- <a href="#/Abemaciclib">Abemaciclib</a>
-- <a href="#/Ribociclib">Ribociclib</a>
-
----
-
-- <a href="#/Cetuximab">Cetuximab</a>
-- <a href="#/Panitumumab">Panitumumab</a>
-- <a href="#/Gilteritinib">Gilteritinib</a>
-- <a href="#/Midostaurin">Midostaurin</a>
-- <a href="#/Dinutuximab">Dinutuximab</a>
-- <a href="#/Sonidegib">Sonidegib</a>
-- <a href="#/Vismodegib">Vismodegib</a>
-- <a href="#/Trastuzumab">Trastuzumab</a>
-- <a href="#/Pertuzumab">Pertuzumab</a>
-- <a href="#/Lapatinib">Lapatinib</a>
-- <a href="#/Darolutamide">Darolutamide</a>
-- <a href="#/Siltuximab">Siltuximab</a>
-- <a href="#/Niraparib">Niraparib</a>
-- <a href="#/Olaparib">Olaparib</a>
-
----
-
-- <a href="#/Ipilimumab">Ipilimumab</a>
-- <a href="#/Cemiplimab">Cemiplimab</a>
-- <a href="#/Avelumab">Avelumab</a>
-- <a href="#/Durvalumab">Durvalumab</a>
-- <a href="#/Pembrolizumab">Pembrolizumab</a>
-- <a href="#/Atezolizumab">Atezolizumab</a>
-- <a href="#/Nivolumab">Nivolumab</a>
-- <a href="#/Alpelisib">Alpelisib</a>
-- <a href="#/Idelalisib">Idelalisib</a>
-- <a href="#/Venetoclax">Venetoclax</a>
-- <a href="#/Imatinib">Imatinib</a>
-
----
-
-#### Health Canada Links Only
-
-- <a href="#/Lacrotrectinib">Lacrotrectinib</a>
-- <a href="#/Entrectinib">Entrectinib</a>
-- <a href="#/Lenvatinib">Lenvatinib</a>
-- <a href="#/Dacometinib">Dacometinib</a>
-- <a href="#/Ramucirumab">Ramucirumab</a>
-- <a href="#/Bevacizumab">Bevacizumab</a>
-- <a href="#/Cyclophosphamide">Cyclophosphamide</a>
-- <a href="#/Temozolomide">Temozolomide</a>
-- <a href="#/Hydroxyurea">Hydroxyurea</a>
-- <a href="#/Lomustine">Lomustine</a>
-- <a href="#/Procarbazine">Procarbazine</a>
-- <a href="#/Melphalan">Melphalan</a>
-
----
-
-- <a href="#/Chorambucil">Chorambucil</a>
-- <a href="#/Exemestane">Exemestane</a>
-- <a href="#/Letrozole">Letrozole</a>
-- <a href="#/Anastrazole">Anastrazole</a>
-- <a href="#/Ponatininb">Ponatininb</a>
-- <a href="#/Bosutinib">Bosutinib</a>
-- <a href="#/Nilotinib">Nilotinib</a>
-- <a href="#/Dasatinib">Dasatinib</a>
-- <a href="#/Dabrafenib">Dabrafenib</a>
-- <a href="#/Vemurafenib">Vemurafenib</a>
-- <a href="#/Osimertinib">Osimertinib</a>
-- <a href="#/Afatinib">Afatinib</a>
-- <a href="#/Erlotinib">Erlotinib</a>
-- <a href="#/Gefitinib">Gefitinib</a>
-
----
-
-- <a href="#/Abiraterone">Abiraterone</a>
-- <a href="#/Romidepsin">Romidepsin</a>
-- <a href="#/Apalutamide">Apalutamide</a>
-- <a href="#/Enzalutamide">Enzalutamide</a>
-- <a href="#/Flutamide">Flutamide</a>
-- <a href="#/Nilutamide">Nilutamide</a>
-- <a href="#/Bicalutamide">Bicalutamide</a>
-- <a href="#/Tamoxifen">Tamoxifen</a>
-- <a href="#/Pomalidomide">Pomalidomide</a>
-- <a href="#/Thalidomide">Thalidomide</a>
-- <a href="#/Lenalidomide">Lenalidomide</a>
-- <a href="#/Ruxolitinib">Ruxolitinib</a>
-- <a href="#/Cobimetinib">Cobimetinib</a>
-- <a href="#/Trametinib">Trametinib</a>
-
----
-
-- <a href="#/Arsenic Trioxide">Arsenic Trioxide</a>
-- <a href="#/Dexamethasone">Dexamethasone</a>
-- <a href="#/Prednisone">Prednisone</a>
-- <a href="#/Mitotane">Mitotane</a>
-- <a href="#/Temsirolimus">Temsirolimus</a>
-- <a href="#/Everolimus">Everolimus</a>
-- <a href="#/Etoposide">Etoposide</a>
-- <a href="#/Cabozantinib">Cabozantinib</a>
-- <a href="#/Regorafenib">Regorafenib</a>
-- <a href="#/Vandetanib">Vandetanib</a>
-- <a href="#/Pazopanib">Pazopanib</a>
-- <a href="#/Sorafenib">Sorafenib</a>
-- <a href="#/Sunitinib">Sunitinib</a>
-- <a href="#/Axitinib">Axitinib</a>
+</section>
 
 ---
 
